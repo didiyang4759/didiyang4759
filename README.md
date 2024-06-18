@@ -1,4 +1,4 @@
-Hi, I am DiYang, This is my GitHub, which include my projects on resume.
+Hi, I am DiYang, This is my GitHub
 
 I am looking for an opportunity Full-time job or internship as Data Engineer, Data Analytics, or Associate Product Manager. I am currently a master's student studying at Northeastern University of Computer science for improving my coding skills, especially in algorithms. My bachelor's degree is in Business Analytics at Auburn University, therefore I am a big data-driven student with SQL, Python, problem-solving, and data modeling skills.
 
